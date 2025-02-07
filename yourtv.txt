@@ -58,6 +58,8 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" group-title="卫视IPV4",纬来体育
+http://v4-b622ff7a38b5a3ab6227cd2949ce749f.livehwc3.cn/hdl2.szsummer.cn/live/35141579.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1738857600-b3615b5b37b34fb58a7fb432f88432c4-0-ef5cea5b11c3afc8c0132bce336ea676&user_session_id=f9a1e906042157558e3dae0e025ffbec
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" group-title="卫视IPV4",五星体育
 http://148.135.93.213:81/live.php?id=五星体育
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4",凤凰资讯
