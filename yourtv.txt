@@ -58,6 +58,8 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" group-title="卫视IPV4",咪咕体育
+https://v4-b622ff7a38b5a3ab6227cd2949ce749f.livehwc3.cn/hls.yjjcfw.com/live/947777055.m3u8?user_session_id=e67f5269f6484e1b37398233d6f1ef6d&sub_m3u8=true&hwTime=67A59E0D&hwSecret=442db7932224a2613fdbc13a1779b8932c3ac96c4d8504e86b9690e1909a00fc&edge_slice=true
 #EXTINF:-1 tvg-id="腾讯体育" tvg-name="腾讯体育" group-title="卫视IPV4",腾讯体育
 https://v4-b622ff7a38b5a3ab6227cd2949ce749f.livehwc3.cn/hls.yjjcfw.com/live/10022400731.m3u8?edge_slice=true&hwTime=67A57D09&hwSecret=977fc7a124c33ffa9415941405a70c3f53c9c82f725be03ad2390ab0d0130930&user_session_id=3accafba77a318f33d728b39656c9fcf&sub_m3u8=true
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" group-title="卫视IPV4",纬来体育
