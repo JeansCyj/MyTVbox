@@ -59,7 +59,7 @@ https://0472.org/hls/cgtna.m3u8
 https://0472.org/hls/cgtne.m3u8
 
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" group-title="卫视IPV4",纬来体育
-https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=041ee3f45bf567b5bb2b3545d6cbc7116aef9dcfa0388bc4742a1061be0b25e5&hwTime=68490D66
+https://www.jrs16.com/wlty.html
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4",凤凰资讯
 http://148.135.93.213:81/phenix.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视IPV4",凤凰中文
